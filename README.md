@@ -62,6 +62,7 @@
 # Клонируйте репозиторий
 git clone <url-репозитория>
 cd stock-analysis-bot
+```
 
 # Установите зависимости
 pip install -r requirements.txt
