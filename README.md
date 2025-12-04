@@ -243,7 +243,7 @@ Project_chat_bot.py
 
 1. График прогноза
    
-
+<img src="Chat_bot_TSLA.jpg" width="500">
 
 Синяя линия - исторические данные
 
