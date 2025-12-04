@@ -67,7 +67,7 @@ cd stock-analysis-bot
 # Установите зависимости
 pip install -r requirements.txt
 
-Шаг 2: Настройка Telegram бота
+### Шаг 2: Настройка Telegram бота
 
 Откройте @BotFather в Telegram
 
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 API_TOKEN = 'Укажите ваш токен'  # → Ваш токен
 
-Шаг 3: Запуск бота
+### Шаг 3: Запуск бота
 
 python Project_chat_bot.py
 
